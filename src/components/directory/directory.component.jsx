@@ -43,7 +43,6 @@ class Directory extends React.Component {
         }
     }
 
-    state = {  }
     render() { 
         return ( 
             <div className='directory-menu'>
